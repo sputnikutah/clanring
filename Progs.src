@@ -1,0 +1,66 @@
+../release/progs.dat
+
+defs.qc
+array.qc    // elohim mod
+userdefs.qc // elohim mod
+elodefs.qc  // elohim mod
+
+hotspots.qc // crmod
+
+strings.qc  // elohim mod
+utils.qc    // elohim mod
+motd.qc     // elohim mod
+//qsmack.qc   // crmod
+auto.qc     // crmod
+debug.qc	// elohim mod
+quaketag.qc // elohim mod
+warp.qc
+qball.qc
+elohim.qc   // elohim mod
+stats.qc    // elohim mod
+angles.qc   // crmod
+score.qc	// elohim mod
+quaketv.qc  // elohim mod
+observer.qc // elohim mod
+vote.qc     // elohim mod
+match.qc    // elohim mod
+training.qc // TRAINING
+votables.qc // elohim mod
+admin.qc    // elohim mod
+items.qc
+console.qc  // elohim mod
+options.qc  // elohim mod
+
+subs.qc
+//fight.qc
+//ai.qc
+combat.qc
+weapons.qc
+world.qc
+client.qc
+player.qc
+monsters.qc
+doors.qc
+buttons.qc
+triggers.qc
+plats.qc
+misc.qc
+
+fnstrings.qc // elohim mod
+
+//ogre.qc
+//demon.qc
+//shambler.qc
+//knight.qc
+//soldier.qc
+//wizard.qc
+//dog.qc
+//zombie.qc
+//boss.qc
+
+//tarbaby.qc      // registered
+//hknight.qc      // registered
+//fish.qc         // registered
+//shalrath.qc     // registered
+//enforcer.qc     // registered
+//oldone.qc       // registered
