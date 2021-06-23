@@ -1,4 +1,4 @@
-# clanring (crmod++)
+# clanring (crmod++) 5.0
 ClanRing Quake 1 Competition Server
 
 Developed by J.P. Grossman and Paul Baker
