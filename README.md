@@ -1,5 +1,6 @@
 # clanring
 ClanRing Quake 1 Competition Server
+Developed by J.P. Grossman (a.k.a. ùMephistopheles) and Paul Baker
 
 Build with visual studio, or run make.bat from the command line.
 
